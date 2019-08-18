@@ -4,7 +4,7 @@ Calculate the Levenshtein Edit Distance between two strings.
 ```
 $ go get github.com/militsasotirova/levenshtein
 ```
-# Use
+# Example Use - source: user input
 ```
 package main
 
